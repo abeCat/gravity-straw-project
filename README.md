@@ -45,6 +45,5 @@ I simulate this numerically to observe the dynamics of the fluid column and inve
 * `straw_oscillation.ipynb`: Full code and plots
 * `data/simulated_data.csv`: Simulated data
 * `figures/oscillation_plot.png`: $z(t)$ plot
-* `figures/frequency_spectrum.png`: FFT + Lorentzian
 * `report/report.pdf`: Final report (Overleaf)
 * `README.md`: This file
